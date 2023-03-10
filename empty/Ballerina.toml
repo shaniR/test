@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["shopify_new_customers_to_outlook_mail"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/ScheduledTask","Category/Integration"]
+  name = "shopify_new_customers_to_outlook_mail"
+  org = "shaniorg2"
+  version = "3.1.0"
+
