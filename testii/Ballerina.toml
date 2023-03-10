@@ -1,0 +1,9 @@
+[package]
+org = "Shaniorg2"
+name = "testii"
+version = "1.0.0"
+export = ["testii"]
+distribution = "2201.3.1"
+
+[build-options]
+observabilityIncluded = true
